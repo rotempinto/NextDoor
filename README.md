@@ -1,2 +1,2 @@
-# -shchenim-plus
+# NextDoor
 Neighborhood community sharing platform
